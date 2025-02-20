@@ -64,4 +64,4 @@ mvn exec:java -Dexec.mainClass="com.codtech.weather.WeatherApp"
 The program will display the weather data for a default city (currently set to "London").
 You can change the city variable in WeatherApp.java to get the weather for a different city.
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/3df519f9-f428-4aa0-a62c-6c7f51897e03)
